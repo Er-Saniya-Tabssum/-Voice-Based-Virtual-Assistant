@@ -45,7 +45,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/your-username/virtual-assistant.git
+git clone https://github.com/Er-Saniya-Tabssum/-Voice-Based-Virtual-Assistant.git
 
 Navigate to the project directory:
 
